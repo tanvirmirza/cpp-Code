@@ -3,7 +3,6 @@ using namespace std;
 
 // Print a solid rectangle
 void Problem_01(){
-    //input
     int row, col;
     cout<<"Input number of row = ";
     cin>>row;
